@@ -58,7 +58,9 @@ Use the repertoire builder to:
 - save practical lines from PGN books, database games, and your own games;
 - practice a position against Archer Fish.
 
-![Screenshot: White Repertoire screen with board and Coach pane](repertoire-white-coach.png)
+![Long-press menu for saving, practicing, promoting, and cleaning repertoire lines](long-press-menu.png)
+
+*Long-press any move in the repertoire or PGN Reader to save the line, add it to White or Black, practice it with Archer Fish, promote it to the main line, or clean up unwanted branches.*
 
 ### 1.2 Coach Pane
 
