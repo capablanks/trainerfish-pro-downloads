@@ -5,11 +5,6 @@ If screenshots are later moved into docs/screenshots/, replace image paths like
 (home-screen-hero.png) with (screenshots/home-screen-hero.png).
 -->
 
----
-title: "Trainer Fish: Chess Openings Coach - User Manual and Opening Study Guide"
-description: "A GitHub Pages-ready user manual and marketing guide for Trainer Fish: Chess Openings Coach."
-status: "Pre-production draft based on Beta Version 8"
----
 
 # Trainer Fish: Chess Openings Coach
 ## User Manual and Opening Study Guide
