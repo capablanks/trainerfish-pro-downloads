@@ -11,11 +11,9 @@ If screenshots are later moved into docs/screenshots/, replace image paths like
 
 > **Build your opening book. Read PGNs. Search real games. Save the lines that matter.**
 >
-> Chess Openings Coach is for players who want to stop memorizing random opening moves and start building a practical, personal opening system.
+> Chess Openings Coach helps players harness the power of modern chess technology — opening databases, personal game statistics, engine analysis, and guided repertoire building — to refine their openings and keep up with the way serious players study today.
 
 ![Hero screenshot: Chess Openings Coach home screen](home-screen-hero.png)
-
-> **Draft note:** This is the Beta Version 8 manual draft. Before the first production release, replace placeholder screenshots with final production screenshots and re-check all Pro wording against the final Play Store build.
 
 ---
 
@@ -37,26 +35,15 @@ If screenshots are later moved into docs/screenshots/, replace image paths like
 
 ## 1. What Chess Openings Coach Does
 
-Chess Openings Coach is not just a PGN viewer, not just an engine board, and not just a database browser. It is an opening-study workspace built around one idea:
+Chess Openings Coach is more than just a PGN viewer, more than just an engine board, and more than just a database browser. It is a modern opening-study workspace built around one idea:
 
-> **Your opening preparation should connect master games, your own games, engine evaluation, and the lines you personally want to remember.**
+> **Opening preparation should harness the power of technology by connecting master games, your own games, engine evaluation, and the lines you personally want to remember.**
 
-The app brings those study sources together in one board-centered interface.
+The app brings those study sources together in one board-centered interface, helping you refine your repertoire the way serious players study today: with databases, statistics, computer analysis, and a personal opening book that grows with your games.
 
-```mermaid
-flowchart TD
-    A[Current Board Position] --> B[Grandmaster Tree]
-    A --> C[Live Tree from Your Own Games]
-    A --> D[Study Tree / Repertoire]
-    A --> E[Computer Analysis]
-    A --> F[Trainer Queen Database]
-    B --> G[Coach]
-    C --> G
-    D --> G
-    E --> G
-    F --> G
-    G --> H[Choose, Save, Repair, Practice]
-```
+![How Chess Openings Coach brings opening study together](flowchart-a.png)
+
+*Chess Openings Coach brings together grandmaster games, your own games, live database search, engine evaluation, and your personal repertoire in one board-centered study workflow.*
 
 ### 1.1 Separate White and Black Repertoires
 
