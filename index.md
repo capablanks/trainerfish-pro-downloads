@@ -333,15 +333,42 @@ The PGN Reader is ideal when your first task is reading, not editing.
 
 ### 4.4 Build Live Repertoire
 
-Use this when you want the app to learn from your games.
+Use this when you want Chess Openings Coach to learn from real online games — either your own games or the public games of another player whose account name you know.
 
-A Live Repertoire can be built from your online games and separated by color. It can later be compared against master play and searched as a live database.
+No account password is needed. The app builds from publicly accessible online games, then separates the result by color so you can study how that account plays as White and as Black.
 
+When enabled, Chess Openings Coach also builds a **searchable live game database** from those same games. This is important because opening study should not stop at move 10. To understand an opening properly, you must also look at the entire games that came from it: how the middlegame unfolded, what plans became available, what pawn structures appeared, and which strategic ideas worked in practice.
+
+The opening decides much more than the first few moves. It often determines the pawn structure, piece placement, attacking chances, endgame tendencies, and middlegame plans. By combining a Live Repertoire tree with a searchable live game database, the app lets you study both:
+
+- **the opening choices** shown by the move tree; and
+- **the full-game consequences** shown by the games that followed from those choices.
+
+This is useful for two kinds of study:
+
+- **Personal improvement:** build a Live Repertoire and live game database from your own Lichess or Chess.com games so the Coach can learn your habits, identify recurring openings, and show how your openings lead into real middlegames.
+- **Opponent or model-player study:** enter another player’s public account name to study their opening habits, favorite systems, recurring repertoire patterns, and the middlegame plans that usually follow.
+  
 ### 4.5 Open Database
 
-Open the Trainer Queen database to search for games by header or position.
+Open the database screen when you want to study real games, not just isolated opening moves.
 
-Use this when you want to find real games by player, event, ECO, year, rating, result, or exact board position.
+Chess Openings Coach supports two major database study paths:
+
+- **Trainer Queen Database:** search the built-in grandmaster database by player, event, ECO, year, rating, result, or exact board position.
+- **Live Game Database:** search the games built from your own online account, or from another public account you imported through Build Live Repertoire.
+
+Use this when you want to see how an opening continued into a real game. A move tree tells you what was played in the opening, but a database game shows what happened next: the pawn structure, piece placement, attacking plan, middlegame strategy, and eventual result.
+
+This is especially useful when you want to answer questions such as:
+
+- Which strong players used this opening?
+- What full games came from this exact position?
+- How did this pawn structure affect the middlegame plan?
+- Did the opening lead to attacking chances, a strategic squeeze, or a difficult defense?
+- Do my own games show the same middlegame problems again and again?
+
+The database screen turns opening study into full-game study. Instead of memorizing a line and stopping there, you can open real examples, replay the complete game, and save useful ideas back into your repertoire.
 
 ### 4.6 Pro Database Pack
 
@@ -355,13 +382,17 @@ Pro is recommended for users who want serious database-assisted study rather tha
 
 The Repertoire Screen is the main training room.
 
-![Screenshot: Repertoire screen overview](repertoire-screen-overview.png)
+![Screenshot: Repertoire screen annotated](repertoire-screen-annotated.png)
 
 It has three main zones:
 
 1. **Chess board** - the current position.
 2. **Bottom or side pane** - Coach, trees, recent games, or engine output.
 3. **Drawers and controls** - navigation, database search, visual customization, and mode switching.
+
+The screen is designed for fast study navigation. You can swipe through the bottom pane in portrait mode, or the right-side pane in landscape mode, to move between Coach, Grandmaster Tree, Live Tree, Recent GM Games, Study Tree, and Computer Analysis.
+
+You can also swipe from the board area to open the left control panel. This panel gives quick access to the major study panes, repertoire options, PGN Reader, database tools, Live Repertoire tools, Pro Database Pack, and other controls without leaving the board.
 
 ### 5.1 Board Controls
 
@@ -389,7 +420,7 @@ The red splitter lets you resize the board and the study pane.
 
 In portrait, drag the red bar up or down. In landscape, drag it left or right. The pane text scales with the available space, so you can give more room to the board or more room to the explanation depending on what you are doing.
 
-![Screenshot: Repertoire screen splitter](repertoire-splitter.png)
+![Screenshot: Repertoire screen splitter](repertoire-screen-annotated.png)
 
 ### 5.3 Left Drawer
 
@@ -405,6 +436,8 @@ Use it to switch between:
 - Trainer Queen Database;
 - Pro Database Pack.
 
+![Screenshot: Repertoire screen splitter](left-drawer.png)
+
 ### 5.4 Coach Pane
 
 The Coach is the best default pane for practical study. It converts the data into human-readable guidance.
@@ -418,8 +451,6 @@ It may point out:
 - recent grandmaster games;
 - opening name and ECO information;
 - repertoire gaps.
-
-![Screenshot: Coach pane move chips](coach-move-chips.png)
 
 ### 5.5 Grandmaster Tree Pane
 
