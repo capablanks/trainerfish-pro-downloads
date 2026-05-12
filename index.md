@@ -12,9 +12,10 @@ If screenshots are later moved into docs/screenshots/, replace image paths like
 > **Build your opening book. Read PGNs. Search real games. Save the lines that matter.**
 >
 > Chess Openings Coach helps players harness the power of modern chess technology — opening databases, personal game statistics, engine analysis, and guided repertoire building — to refine their openings and keep up with the way serious players study today.
-
-![Hero screenshot: Chess Openings Coach home screen](home-screen-hero.png)
-
+> 
+<p align="center">
+  <img src="home-screen-hero.png" alt="Chess Openings Coach home screen showing the main feature cards" width="420">
+</p>
 ---
 
 ## Table of Contents
