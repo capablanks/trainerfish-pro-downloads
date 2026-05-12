@@ -412,8 +412,6 @@ The board can display:
 - custom board colors;
 - custom piece sets.
 
-![Screenshot: Board with arrows and highlights](board-arrows.png)
-
 ### 5.2 The Red Splitter Bar
 
 The red splitter lets you resize the board and the study pane.
@@ -436,7 +434,7 @@ Use it to switch between:
 - Trainer Queen Database;
 - Pro Database Pack.
 
-![Screenshot: Repertoire screen splitter](left-drawer.png)
+![Screenshot: left drawer](left-drawer.png)
 
 ### 5.4 Coach Pane
 
@@ -472,14 +470,7 @@ The Repertoire Screen can show recent grandmaster games from the current positio
 
 Typical workflow:
 
-```mermaid
-flowchart TD
-    A[Reach an important position] --> B[Open Recent GM Games]
-    B --> C[Choose a model game]
-    C --> D[Open in PGN Reader]
-    D --> E[Study the continuation]
-    E --> F[Save useful line to repertoire]
-```
+![Screenshot: typical workflow](flowchart-b.png)
 
 ### 5.8 Study Tree Pane
 
