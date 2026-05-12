@@ -143,7 +143,7 @@ You can:
 - add what-if moves and variations;
 - save edited copies of read-only database games into your local saved-games file.
 
-![Screenshot: PGN Reader with right-side analysis pane](pgn-reader.png)
+![Screenshot: PGN Reader with right-side analysis pane](pgn-reader-main.png)
 
 ### 1.8 Local Computer Analysis
 
