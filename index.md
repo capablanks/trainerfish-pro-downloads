@@ -112,7 +112,7 @@ The app can analyze your live repertoire and summarize patterns in your own game
 
 A good Live Tree Analysis does not merely tell you what you played. It tells you where your study time is most likely to pay off.
 
-![Screenshot: Live Tree Analysis dialog](live-tree-analysis.png)
+![Screenshot: Live Tree Analysis dialog](live-analysis.png)
 
 ### 1.6 Trainer Queen Database
 
