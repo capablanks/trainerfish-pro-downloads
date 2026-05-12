@@ -508,14 +508,7 @@ Use the search icon to search for representative database games from the current
 
 This is one of the strongest workflows in the app:
 
-```mermaid
-flowchart TD
-    A[Reach an important position] --> B[Tap Database Search]
-    B --> C[Find games from this position]
-    C --> D[Open a model game]
-    D --> E[Study in PGN Reader]
-    E --> F[Save useful line to repertoire]
-```
+![Screenshot: 5.10 workflow](flowchart-c.png)
 
 ### 5.11 Visual Customization
 
@@ -526,6 +519,8 @@ The app includes multiple:
 - chess piece styles.
 
 Use the visual drawer to create a board and study environment you enjoy. Opening study is easier when the workspace feels pleasant enough to return to every day.
+
+![Screenshot: visual studio](visual studio.png)
 
 ---
 
