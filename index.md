@@ -551,14 +551,14 @@ This makes the PGN Reader useful for opening books with many variations. You can
 
 The reader includes controls for:
 
-- previous move;
-- next move;
-- first move;
-- last move;
-- previous source game;
-- next source game;
-- game list;
-- board flip.
+- First move
+- Previous move
+- Game list
+- Autoplay
+- Reconnect volume buttons
+- Next move
+- Last move
+- Flip board
 
 ![Screenshot: PGN Reader controls](pgn-reader-controls.png)
 
@@ -869,89 +869,4 @@ flowchart TD
 The most important Pro benefit is not the number of games. It is the workflow.
 
 Pro helps you turn a position into a research question, then turn the answer into your own prepared line.
-
----
-
-## 11. Screenshot and Publishing Checklist
-
-Before publishing the GitHub Pages manual and downloadable PDF, capture production screenshots with the final build.
-
-### 11.1 Required Screenshots
-
-1. `screenshots/home-screen-hero.png`
-2. `screenshots/home-screen.png`
-3. `screenshots/repertoire-screen-overview.png`
-4. `screenshots/repertoire-white-coach.png`
-5. `screenshots/coach-pane.png`
-6. `screenshots/coach-move-chips.png`
-7. `screenshots/gm-tree-bars.png`
-8. `screenshots/live-tree.png`
-9. `screenshots/live-tree-analysis.png`
-10. `screenshots/build-live-repertoire.png`
-11. `screenshots/board-arrows.png`
-12. `screenshots/computer-analysis.png`
-13. `screenshots/pgn-reader.png`
-14. `screenshots/pgn-reader-main.png`
-15. `screenshots/pgn-reader-controls.png`
-16. `screenshots/trainer-queen-search.png`
-17. `screenshots/backup-restore-dialog.png`
-18. `screenshots/pro-dialog.png`
-
-### 11.2 Optional Screenshots
-
-- portrait Repertoire Screen on a 6-inch phone;
-- landscape PGN Reader with analysis pane;
-- Pro locked feature prompt;
-- Live Tree Analysis recommendations;
-- Recent GM Games pane;
-- visual customization drawer;
-- saved edited game workflow.
-
-### 11.3 GitHub Pages Publishing Notes
-
-For GitHub Pages, the easiest structure is:
-
-```text
-/docs
-  index.md
-  /screenshots
-    home-screen-hero.png
-    repertoire-screen-overview.png
-    pgn-reader-main.png
-    pro-dialog.png
-```
-
-If using Mermaid diagrams, enable Mermaid support through your GitHub Pages theme or convert the diagrams into images before publishing.
-
-### 11.4 PDF Publishing Notes
-
-The downloadable PDF should be produced from the same source content, but with:
-
-- embedded screenshots instead of placeholder links;
-- diagrams converted to images or simplified flowcharts;
-- a cover page;
-- a table of contents;
-- a final Pro call-to-action page.
-
-Recommended download locations:
-
-- GitHub Releases; or
-- Cloudflare / R2 mirror; or
-- both, using one as fallback.
-
----
-
-## Suggested Next Manual Sections
-
-The next revision can add:
-
-12. Step-by-step: building a Live Repertoire from online games
-13. Step-by-step: creating a Pro opening research session
-14. Step-by-step: saving model-game lines into White or Black repertoire
-15. Archer Fish practice mode
-16. Visual customization guide
-17. Troubleshooting
-18. FAQ
-19. Beta tester notes and production release notes
-20. Privacy and local data storage notes
 
