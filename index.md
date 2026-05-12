@@ -42,7 +42,9 @@ Chess Openings Coach is more than just a PGN viewer, more than just an engine bo
 
 The app brings those study sources together in one board-centered interface, helping you refine your repertoire the way serious players study today: with databases, statistics, computer analysis, and a personal opening book that grows with your games.
 
-![How Chess Openings Coach brings opening study together](flowchart-a.png)
+<p align="center">  
+  <img src="flowchart-a.png" alt="How Chess Openings Coach brings opening study together" width="900">
+</p>
 
 *Chess Openings Coach brings together grandmaster games, your own games, live database search, engine evaluation, and your personal repertoire in one board-centered study workflow.*
 
@@ -59,7 +61,9 @@ Use the repertoire builder to:
 - save practical lines from PGN books, database games, and your own games;
 - practice a position against Archer Fish.
 
-![Long-press menu for saving, practicing, promoting, and cleaning repertoire lines](long-press-menu.png)
+<p align="center">
+  <img src="long-press-menu.png" alt="Long-press menu for saving, practicing, promoting, and cleaning repertoire lines" width="430">
+</p>
 
 *Long-press any move in the repertoire or PGN Reader to save the line, add it to White or Black, practice it with Archer Fish, promote it to the main line, or clean up unwanted branches.*
 
@@ -80,7 +84,11 @@ The goal is not merely to say "this move is good." The goal is to answer the pra
 
 > **What should I learn here, and why?**
 
-![Screenshot: Coach pane explaining a position](coach-pane.png)
+<p align="center">
+  <img src="coach-pane.png" alt="Coach pane explaining an opening position" width="850">
+</p>
+
+*The Coach explains the current opening position in human language, combining grandmaster statistics, your repertoire data, and engine guidance when available.*
 
 ### 1.3 Grandmaster Tree
 
@@ -91,8 +99,10 @@ The **Grandmaster Tree** shows how strong players continued from the current boa
 
 A move that scores well but appears rarely may be an interesting surprise weapon. A move that appears often but scores poorly may require deeper understanding before you trust it. A move that appears often and scores well is usually a strong candidate for your main repertoire.
 
-![Screenshot: Grandmaster Tree with popularity and W/D/L bars](gm-tree-bars.png)
-
+<p align="center">
+  <img src="gm-tree-bars.png" alt="Grandmaster Tree showing popularity and win-draw-loss bars" width="850">
+</p>
+*The Grandmaster Tree shows which moves masters actually play, with popularity bars and win/draw/loss results for each candidate move.*
 ### 1.4 Live Tree: Learn From Your Own Games
 
 The **Live Tree** shows what *you* actually play.
@@ -105,7 +115,11 @@ Instead of studying openings only from the outside, you can import your own onli
 - Where do my games leave known theory?
 - Which openings deserve repair first?
 
-![Screenshot: Live Tree showing user game statistics](live-tree.png)
+<p align="center">
+  <img src="live-tree.png" alt="Live Tree showing user game statistics" width="850">
+</p>
+
+*The Live Tree shows how you actually play from your imported games, including move frequency and results, so you can study your real habits instead of relying only on theory.*
 
 ### 1.5 Live Tree Analysis
 
@@ -113,7 +127,9 @@ The app can analyze your live repertoire and summarize patterns in your own game
 
 A good Live Tree Analysis does not merely tell you what you played. It tells you where your study time is most likely to pay off.
 
-![Screenshot: Live Tree Analysis dialog](live-analysis.png)
+<p align="center">
+  <img src="live-analysis.png" alt="Live Tree Analysis dialog showing strong and weak opening reports" width="520">
+</p>
 
 ### 1.6 Trainer Queen Database
 
@@ -126,7 +142,10 @@ With the Pro Database Pack installed, Trainer Queen becomes a full opening-resea
 - move from database games into the PGN Reader;
 - save useful lines into your own repertoire.
 
-![Screenshot: Trainer Queen database search](trainer-queen-search.png)
+<p align="center">
+  <img src="trainer-queen-search.png" alt="Trainer Queen database search screen for header and position search" width="850">
+</p>
+*Trainer Queen lets you search real games by player, event, ECO, rating, result, year, or exact board position — then open the game in the PGN Reader for full-game study.*
 
 ### 1.7 PGN Reader
 
@@ -144,7 +163,9 @@ You can:
 - add what-if moves and variations;
 - save edited copies of read-only database games into your local saved-games file.
 
-![Screenshot: PGN Reader with right-side analysis pane](pgn-reader-main.png)
+<p align="center">
+  <img src="pgn-reader-main.png" alt="PGN Reader with notation, board, and right-side analysis pane" width="900">
+</p>
 
 ### 1.8 Local Computer Analysis
 
@@ -159,7 +180,10 @@ Use the engine to check:
 - whether a database move is outdated;
 - whether your own repertoire line needs repair.
 
-![Screenshot: Computer Analysis pane with soft engine arrows](computer-analysis.png)
+<p align="center">
+  <img src="computer-analysis.png" alt="Computer Analysis pane with soft engine arrows and move suggestions" width="850">
+</p>
+*Computer Analysis gives on-device engine evaluation, candidate moves, and soft board arrows so you can test opening ideas, spot tactical problems, and refine your repertoire with computer assistance.*
 
 ---
 
@@ -292,7 +316,9 @@ timeline
 
 The Home Screen is the launch pad.
 
-![Screenshot: Home screen](home-screen-hero.png)
+<p align="center">
+  <img src="home-screen-hero.png" alt="Chess Openings Coach home screen" width="420">
+</p>
 
 The main actions are presented as large, colorful cards.
 
@@ -383,7 +409,9 @@ Pro is recommended for users who want serious database-assisted study rather tha
 
 The Repertoire Screen is the main training room.
 
-![Screenshot: Repertoire screen annotated](repertoire-screen-annotated.png)
+<p align="center">
+  <img src="repertoire-screen-annotated.png" alt="Annotated Repertoire Screen showing the board, pane area, drawers, controls, and red splitter" width="950">
+</p>
 
 It has three main zones:
 
@@ -419,7 +447,9 @@ The red splitter lets you resize the board and the study pane.
 
 In portrait, drag the red bar up or down. In landscape, drag it left or right. The pane text scales with the available space, so you can give more room to the board or more room to the explanation depending on what you are doing.
 
-![Screenshot: Repertoire screen splitter](repertoire-screen-annotated.png)
+<p align="center">
+  <img src="repertoire-screen-annotated.png" alt="Annotated Repertoire Screen showing the board, pane area, drawers, controls, and red splitter" width="950">
+</p>
 
 ### 5.3 Left Drawer
 
@@ -435,7 +465,9 @@ Use it to switch between:
 - Trainer Queen Database;
 - Pro Database Pack.
 
-![Screenshot: left drawer](left-drawer.png)
+<p align="center">
+  <img src="left-drawer.png" alt="Left drawer showing repertoire, PGN Reader, Live Repertoire, database, Pro pack, and pane navigation controls" width="460">
+</p>
 
 ### 5.4 Coach Pane
 
@@ -509,7 +541,9 @@ Use the search icon to search for representative database games from the current
 
 This is one of the strongest workflows in the app:
 
-![Screenshot: 5.10 workflow](flowchart-c.png)
+<p align="center">
+  <img src="flowchart-c.png" alt="Workflow for searching the database from the current board position using the top-right magnifying glass icon" width="850">
+</p>
 
 ### 5.11 Visual Customization
 
@@ -521,7 +555,9 @@ The app includes multiple:
 
 Use the visual drawer to create a board and study environment you enjoy. Opening study is easier when the workspace feels pleasant enough to return to every day.
 
-![Screenshot: visual studio](visual studio.png)
+<p align="center">
+  <img src="visual%20studio.png" alt="Visual Studio drawer for changing app theme, board colors, and chess piece style" width="460">
+</p>
 
 ---
 
