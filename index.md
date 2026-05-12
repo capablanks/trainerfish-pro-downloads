@@ -291,7 +291,7 @@ timeline
 
 The Home Screen is the launch pad.
 
-![Screenshot: Home screen](home-screen.png)
+![Screenshot: Home screen](home-screen-hero.png)
 
 The main actions are presented as large, colorful cards.
 
